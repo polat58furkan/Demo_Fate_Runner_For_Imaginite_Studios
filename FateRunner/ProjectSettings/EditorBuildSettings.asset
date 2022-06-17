@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 0cfe88cd3318bed41a14852347572e77
+  - enabled: 1
+    path: Assets/Scenes/MoneyMap.unity
+    guid: 18d52a5b9f18d244aaa8e7ddeee6ae32
+  - enabled: 1
+    path: Assets/Scenes/SnowMap.unity
+    guid: 60c1f181115b6114a82ee96ded082f32
+  - enabled: 1
+    path: Assets/Scenes/ObstaclesMap.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/RunMap.unity
+    guid: 3ebc4a7db911287469adbac7dc926c81
+  - enabled: 1
+    path: Assets/Scenes/WhippedCreamMap.unity
+    guid: e9b7f0b9a57726747839500cc51d7a74
+  m_configObjects: {}
